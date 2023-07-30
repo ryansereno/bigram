@@ -28,6 +28,16 @@ Next char probabilities are calculated from a dataset.
 Model can generate approximately similar terms.
 </div>
 
+Example name generation:
+<br/>
+_Sia_
+<br/>
+_Elari_
+<br/>
+_Zaronami_
+<br/>
+_Kylauni_
+
 
 <!-- GETTING STARTED -->
 
