@@ -26,6 +26,11 @@ Basic probablistic language model<br/>
 Next char probabilities are calculated from a dataset.
 <br/>
 Model can generate approximately similar terms.
+<br/>
+<br/>
+The resulting ouputs demonstrate the limitations of a bigram model, and expending the model's context would result in exponential growth of the probability table. 
+<br/>
+This 2-character context model has 729 possible contexts; if the model were scaled to 3 character context, the probability table would grow to 19,683 contexts.
 </div>
 
 Example name generation:
