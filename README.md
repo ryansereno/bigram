@@ -28,7 +28,7 @@ Next char probabilities are calculated from a dataset.
 Model can generate approximately similar terms.
 <br/>
 <br/>
-The resulting ouputs demonstrate the limitations of a bigram model, and expending the model's context would result in exponential growth (27^n) of the probability table. 
+The resulting ouputs demonstrate the limitations of a bigram model, and expending the model's context would result in exponential growth (27<sup>n</sup>) of the probability table. 
 <br/>
 This 2-character context model has 729 possible contexts; if the model were scaled to 3 character context, the probability table would grow to 19,683 contexts.
 </div>
